@@ -15,4 +15,3 @@ Part of this process will involve reading the works of others, both classic and 
 I will also try to set myself a regular schedule, depending on my university workload, so that I don't have an excuse to procrastinate.
 
 If this sounds like something you'd be interested in, feel free to follow me on the linked social media pages, or make use of the RSS feed to receive updates directly to your email inbox or dedicated RSS Reader.
-
