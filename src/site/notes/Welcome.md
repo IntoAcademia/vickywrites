@@ -18,4 +18,6 @@ I will also try to set myself a regular schedule, depending on my university wor
 
 If this sounds like something you'd be interested in, feel free to follow me on the linked social media pages, or make use of the RSS feed to receive updates directly to your email inbox or dedicated RSS Reader.
 
+## Recent Articles
+
 [[Getting Started in Game Dev\|Getting Started in Game Dev]]
