@@ -17,3 +17,5 @@ From what I've learned, I'm effectively at "level 0" of making my game: I have a
 I intend on installing some of these tools, testing them out (especially the engines) with microprojects and/or tutorials, and then making some (very slightly) informed decisions.
 
 Wish me luck!..if you feel like it.
+
+[[Picking an Engine\|Picking an Engine]]
