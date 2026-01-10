@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/getting-started-in-game-dev/"}
 ---
 
+# Getting Started in Game Dev
+
 This article is *not a guide.*
 
 I repeat: **this article is not a guide.**
