@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/picking-an-engine/"}
 ---
 
+# Picking an Engine
+
 I'm currently in the process of experimenting with engines that seem suitable for the sort of RPG/social sim I'm itching to build.
 
 My options, as a shortlist, are:
