@@ -6,7 +6,9 @@
 
 My name is Vicky, and I'm a student and writer based in Stellenbosch, South Africa.
 
-My New Year's resolution for 2026 is to write, at minimum, the first draft of a novel or novella. In order to apply pressure on myself, I have decided to try something new: *writing in the open* - revealing the entirety of my planning, research, and writing process to the world.
+~~My New Year's resolution for 2026 is to write, at minimum, the first draft of a novel or novella. In order to apply pressure on myself, I have decided to try something new: *writing in the open* - revealing the entirety of my planning, research, and writing process to the world.~~
+
+*Update:* I have had an idea for a game which I aim to explore starting this year, as opposed to writing a novel. I hope to at least have some basic prototyping done by midway through the year, along with something along the lines of a demo or vertical slice by December.
 
 To accomplish this goal, I am using the Obsidian markdown app, along with the Digital Garden plugin to deploy my vault as a static website published to GitHub Pages.
 
