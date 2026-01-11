@@ -21,3 +21,7 @@ If this sounds like something you'd be interested in, feel free to follow me on 
 ## Recent Articles
 
 [[Getting Started in Game Dev\|Getting Started in Game Dev]]
+
+[[Picking an Engine\|Picking an Engine]]
+
+[[The Early Days - Experimenting With Pico-8\|The Early Days - Experimenting With Pico-8]]
